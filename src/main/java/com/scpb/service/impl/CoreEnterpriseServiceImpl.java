@@ -1,7 +1,6 @@
 package com.scpb.service.impl;
 
 import com.scpb.dao.CoreEnterpriseDao;
-import com.scpb.entity.CoreEnterprise;
 import com.scpb.service.CoreEnterpriseService;
 import org.springframework.stereotype.Service;
 
